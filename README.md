@@ -23,3 +23,6 @@ Este proyecto contiene pruebas automatizadas para la API de Urban Grocers, espec
 - Validación de longitud mínima y máxima del firstName
 - Pruebas con caracteres especiales, números y espacios
 - Verificación de campos obligatorios
+
+## Autor
+Sol Stefanny Archila Moreno
